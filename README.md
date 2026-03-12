@@ -34,7 +34,7 @@ https://prospect-ai-web-app-547768.withmattr.app
 ## 🏃 Getting Started
 
 Clone the repository:
-git clone https://github.com/yourusername/ProspectAI.git
+git clone https://github.com/Kashik04/ProspectAI-B2B-Lead-Finder-AI-SDR
 
 Install dependencies: npm install
 
